@@ -16,8 +16,10 @@
 
 ***
 ## How much script will earn?
-比赛耗时6:10,单次循环时间6:40也就是400秒
-Basically one loop takes ~400s. Race about 6:10 then rest is just menu clicking
+首圈1:15~1:16,之后每圈1:12~1:13
+比赛完赛耗时6:10,单次循环时间6:40也就是400秒
+Basically one loop takes ~400s
+Race about 6:10 then rest is just menu clicking
 400s = 70k or 105k (clean race)
 1hr = 900k
 每小时收益保底90万cr,实际约为945000~1050000,如果明显低于这个数说明AI有问题经常追尾,建议重开比赛
