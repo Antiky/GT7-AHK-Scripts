@@ -1,4 +1,5 @@
 # GT7-AHK-Scripts
+#1.15更新后调教失效,目前仅可用泛美PanAmerican 脚本,效率会低一些
 ## AFK Autohotkey Scripts GT赛车7自动挂机刷钱脚本
 **先参看 https://www.bilibili.com/read/cv16191016 的基础设置\
 其中汽车的调教参考 https://www.bilibili.com/read/cv16314940**
